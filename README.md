@@ -1,5 +1,5 @@
 
-# API Project: File Metadata Microservice for freeCodeCamp
+# API Project: File Metadata Microservice 
 
 ###    User stories:
 1. I can submit a form that includes a file upload.
@@ -8,6 +8,3 @@
 
 ### Usage :
 * Go to the main page, and upload a file using the provided form.
-
-### Hint:
-* To handle the file uploading you should use the [multer](https://www.npmjs.com/package/multer) npm package.
